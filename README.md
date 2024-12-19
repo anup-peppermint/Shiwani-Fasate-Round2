@@ -1,10 +1,10 @@
 # Shiwani-Fasate-Round2
 
 ## Index
-1. [5G Router/Module Submission](#5g-router-module-submission)
+1. [5G Router/Module](#5g-router-module)
 2. [Automotive Start/Stop Button with FOB](#automotive-startstop-button-with-fob)
 
-## 5G Router/Module Submission
+## 5G Router/Module
 ### Overview
 Submit a design and implementation plan for a 5G router/module of industrial grade, equipped with 5 Gigabit Ethernet ports ( 1 WAN + 4 LAN ).
 
